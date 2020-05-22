@@ -49,7 +49,7 @@ https://github.com/alejandrobonet/DIU_TrabajoFinal/blob/master/Usability-review.
 
  > Como propuesta de valor para el rediseño de esta página se propone añadir todas estas nuevas ideas. Además la estructura de la página será distinta, ya que en algunas pestañas se muestran la misma información repetidamente dando lugar a páginas extensas.
  También podria añadirse gestión de usuarios para que el usuario pueda iniciar sesión/registrarse y gestionar su información personal para contactar con empresas o para gestionar su reservar.
- También darle importancia a la accesibilidad. Añadiendo información de accesibilidad y evitando errores del antiguo diseño, como los errores de contraste, la falta de texto alternativo, y la falta de etiquetas en el formulario que podrían confundiar a algún usuario
+ También darle importancia a la accesibilidad. Añadiendo información de accesibilidad y evitando errores del antiguo diseño, como los errores de contraste, la falta de texto alternativo, y la falta de etiquetas en el formulario que podrían confundiar a algún usuario. Estos errores los he obtenido utilizando https://wave.webaim.org/
 
 <br>
 
