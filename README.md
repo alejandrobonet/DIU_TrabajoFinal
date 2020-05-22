@@ -17,7 +17,7 @@ Cubikate es una empresa dedicada al coworking que se encuentra en Granada, una a
 En cuanto a los personas que utilizan la web, Cubikate esta destinada a usuarios que busquen un lugar donde realizar proyectos, estos usuarios  pueden ser tanto pequeñas empresas, como autónomos o como usuarios que quieren desarrollar una idea.
 Analizamos a Carlos García. Carlos es un joven que acaba de llegar a su nueva ciudad después de haber aprobado sus oposiciones de funcionario, al ser una persona joven está acostumbrado a las tecnologías y lleva su móvil siempre encima. En cuanto a su personalidad destacar que es una persona activa que le gusta aprovechar su tiempo libre.
 
-https://github.com/alejandrobonet/DIU_TrabajoFinal/blob/master/IMG/1.png
+![Persona](IMG/1.png) Carlos García
 
 1c.User Journey Map
 -
