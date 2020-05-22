@@ -89,6 +89,20 @@ Para que el usuario tenga una mejor navegación y se pueda ubicar mejor se utili
 Añadir también 404 Error Pages y para mostrar información al usuario de porque no puede acceder a una parte de la página o a la página en sí. Añadir diseño a esta página para que quede más vistosa y no solo se muestre texto en negro.
 
 
+# 3 Conclusión
+El rediseño de esta web es necesario debido a los problemas que hemos ido encontrado. 
+Con la creación de la persona y de su historia pudimos ver como una persona podría perder mucho tiempo para realizar una reserva de alguna de las instalaciones ofrecidas por el simple hecho de no tener la capacidad de realizar reservas online y tener que obligar al ususario a realizar una reserva presencialmente.
+
+Con la revisión de usabilidad encontramos defectos como en la falta de información de la página, ya que no se añadia información de usabilidad. Tampoco nos encontramos informacción de accesibilidad y la falta de algunos elemenos como búsqueda en la web, cambiar de idioma, etc. Además carece de ayuda en linea con solo un chat online a través de Whatsaap.Con el rediseño de la web se pretende añadir esta información que falta y mostrar más ayudas al usuario crendo así una pestaña en el menu de ayuda donde encontraremos información de usabilidad y un chat en linea a través de la página en lugar de una aplicación externa.
+
+En la estructura de la web podemos ver como mucha información se reescribe varias veces dando lugar a páginas extensas donde el usuario debe de hacer mucho scroll, dificultando así la lectura. Por lo que se decide en el rediseño mejorar esta estructura y mantener solo una pestaña en el menú con la información, en donde esta información se organizará por submenus evitando así las páginas extensas.
+
+Utilizando https://wave.webaim.org/ encontré varios errores de contraste y otros errores de accesibilidad. La accesibilidad de una web es muy importante, por eso en el rediseño se pretende solucionar estos errores y añadir información de accesibilidad.
+
+Una aspecto de la página que se mantendría sería el diseño del menú de navegación, con el logo para volver al inicio y manteniendo el menú siempre visible para facilitar la navegación al usuario.
+
+Por ultimo comentar que se han añadido nuevas funcionalidades a la página para hacerla más completa, con la gestión de usuarios, la posibilidad de conocer las tarifas, la sección de empresas y los calendarios de las salas y oficinas.
+
 
 
 
