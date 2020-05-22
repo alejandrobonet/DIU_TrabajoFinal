@@ -48,5 +48,10 @@ https://github.com/alejandrobonet/DIU_TrabajoFinal/blob/master/Usability-review.
  |
 
  > Como propuesta de valor para el rediseño de esta página se propone añadir todas estas nuevas ideas. Además la estructura de la página será distinta, ya que en algunas pestañas se muestran la misma información repetidamente dando lugar a páginas extensas.
+ También podria añadirse gestión de usuarios para que el usuario pueda iniciar sesión/registrarse y gestionar su información personal para contactar con empresas o para gestionar su reservar 
 
 <br>
+
+Sitemap
+-
+![Sitemap](IMG/sitemap.png) 
