@@ -11,6 +11,7 @@ En primer lugar se debe analizar la experiencia de usuario en esta página, para
 1a.Competive Analisis
 -
 Cubikate es una empresa dedicada al coworking que se encuentra en Granada, una aplicación similar a esta es erranT. Aunque las dos webs traten de lo mismo podemos encontrar multiples diferencias entre ambas. La más interesante para comentar es que en la web e cubikate no podemos alquilar directamente una sala, ni saber su disponibilidad, precio, etc. Para alquilar una sala en cubikate tienes que ponerte en contacto a través del formulario que proporcionan, mientras que en erranT podemos alquilar una sala desde la web, conociendo su disponibilidad y tarifas. También comentar que en la web erranT a la hora de navegadar aparecen problemas con el servidor por lo que hace que su navegabilidad no sea eficiente. 
+erranT aparte de información sobre su negocio dispone de un blog con noticias.
 
 1b. Personas
 -
@@ -24,4 +25,14 @@ Analizamos a Carlos García. Carlos es un joven que acaba de llegar a su nueva c
 Carlos, que es funcionario, trabaja por las mañanas y por las tardes suele estar en su casa aburrido realizando tareas doméstica o paseando por su nueva zona residencial. Un compañero de trabajo le comenta que se ha metido a desarrollar una aplicación en su tiempo libre y que si le quiere ayudar a desarrollarla. Para ello deben de encontrar un lugar donde trabajar, ya que la ambos viven en un piso pequeño y no tienen espacio para trabajar comodamente. 
 
 ![Historia](IMG/Historia.PNG) 
+
+1.d Usability Review
+-
+Al realizar la valoración de usabilidad nos encontramos con varios errores:
+No existe buscador, aunque en este tipo de webs no se si son necesarias al 100% o si tendrían algun uso.
+Tampoco existe ayuda en linea, lo único que tenemos es un número de teléfono con el que podemos chatear por Whatsapp. Si un usuario no tiene Whatsapp no podría hacer uso  de este "chat en línea". 
+Y por último comentar su poca funcionalidad, no podemos realizar reservas online, ni conocer las tarifas.
+
+He obtenido una valoración de 61.
+https://github.com/alejandrobonet/DIU_TrabajoFinal/blob/master/Usability-review.pdf
 
