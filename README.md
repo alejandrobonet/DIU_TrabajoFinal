@@ -52,7 +52,7 @@ https://github.com/alejandrobonet/DIU_TrabajoFinal/blob/master/Usability-review.
 
 <br>
 
-Sitemap & labeling
+2b.Sitemap & labeling
 -
 ![Sitemap](IMG/Sitemap.png) 
 
@@ -67,5 +67,27 @@ Sitemap & labeling
 | Contacto            | Formulario de contacto, número de telefono y ubicación                                                         |
 | Ayuda               | Ayuda sobre el uso de la web. También incluye accesibilidad y el sitemap y un chat en linea para solventar                             | cuestiones                                                                                                     |
                                             
+2c.Patrones de diseño y guidelines
+-
+Es importante el uso de una tipografía que sea legible, además que no existan fallos en el contraste. Para ello seguimos con la misma tipografía y los mismos colores, solucionando los dos errores de contraste que teníamos.
+En cuanto al contenido de la página los iconos que aparecen se podrían mantener, pero se añadiría una galería con imágenes que se pudisesen expandir y vidos de las instalaciones.
+En cuanto al logo, he decidido mantener el logo ya que es un logo simple y bonito con los colores de la página y con el nombre de la página 
+
+Una de las desventajas encontradas en el análisis era la falta de una barra de navegación. Cumpliendo el patrón de Search Results Designs, se utilizará una barra de navegación, tanto para buscar información en la página como para buscar empresas.
+
+Añadir también botones Call-to-action tanto para las acciones de reservar como para las de ver la disponibilidad.
+
+Para la parte de las empresas, mostrar el titulo de cada una y una breve introducción donde acabase con el patrón Designing “Read More” And “Continue Reading” Links.
+
+A la hora de realizar una reserva, utilizar el patrón Progress Trackers para que el usuario sepa en que parte de la reserva se encuentra y qué ha realizado y qué no. 
+
+Para mostrar las tarifas utilizando el patrón Pricing Table, el usuario obtendrá una visión más clara de las distintas tarifas según horarios, días, etc.
+
+Para que el usuario tenga una mejor navegación y se pueda ubicar mejor se utilizará el patron breadcrumb.
+
+Añadir también 404 Error Pages y para mostrar información al usuario de porque no puede acceder a una parte de la página o a la página en sí. Añadir diseño a esta página para que quede más vistosa y no solo se muestre texto en negro.
+
+
+
 
 
