@@ -52,6 +52,6 @@ https://github.com/alejandrobonet/DIU_TrabajoFinal/blob/master/Usability-review.
 
 <br>
 
-Sitemap
+Sitemap & labeling
 -
-![Sitemap](IMG/sitemap.png) 
+![Sitemap](IMG/Sitemap.png) 
