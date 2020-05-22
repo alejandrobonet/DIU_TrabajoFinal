@@ -55,3 +55,17 @@ https://github.com/alejandrobonet/DIU_TrabajoFinal/blob/master/Usability-review.
 Sitemap & labeling
 -
 ![Sitemap](IMG/Sitemap.png) 
+
+
+| Etiqueta            | Nota                                                                                                           |
+|---------------------|----------------------------------------------------------------------------------------------------------------|
+|Homa                 | Nos muestra la información que aparecía en el anterior diseño .Además se añade una mejor                       |                       | galeria.                                                                                                       |
+| Perfil              | En nuestro perfil nos aparecerá arriba un símbolo de engranaje para ir a los ajustes de la aplicación, nuestro                           historial y nuestros datos. Si el usuario aun no esta logeado se muestra un inicio de sesión.                                         |
+| Ajustes             | En los ajustes podremos cambiar el idioma de la aplicación. Tambien nos mostrara información de la web         |
+| Empresas            | En esta sección se muestran empresas que trabajan en las instalaciones y una manera de contactar con estas                             | empresas mediante un formulario                                                                                |
+| Reserva             | Se mostrara un calendario/horario con la disponibilidad de las salas/oficinas y la posibilidad de reservar                             | alguna de estas mediante un pago online                                                                        |
+| Contacto            | Formulario de contacto, número de telefono y ubicación                                                         |
+| Ayuda               | Ayuda sobre el uso de la web. También incluye accesibilidad y el sitemap y un chat en linea para solventar                             | cuestiones                                                                                                     |
+                                            
+
+
